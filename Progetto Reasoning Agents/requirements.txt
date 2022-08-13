@@ -1,0 +1,4 @@
+ply==3.10
+networkx
+numpy
+scipy
